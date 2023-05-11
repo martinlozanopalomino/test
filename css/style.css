@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-color: #b9afaf8e;
+}
+
+h1 {
+    font-size: 1.7rem;
+}
+
+p {
+    opacity: 0.8;
+    font-weight: 300;
+}
